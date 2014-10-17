@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mke:home|Door43 (mke)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mke|d43-mke repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mke/archive/master.zip|d43-mke.zip]]
+
+**Recent Changes**
+{{changes>ns = mke}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mke|Ethnologue data]]
+
